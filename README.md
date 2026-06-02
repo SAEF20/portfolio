@@ -1,4 +1,4 @@
-# [Personal portfolio website](https:)
+# [Personal portfolio website](https://saif-portfoliio.vercel.app)
 
 ## ✨ Abstract
 
@@ -20,7 +20,7 @@ This project involves building a responsive personal portfolio website that effe
 
 ## 💡 Deployment
 
-You can access the website [here](https:).
+You can access the website [here](https://saif-portfoliio.vercel.app).
 
 ## 💬 Contact
 
